@@ -38,6 +38,7 @@
 	<li>Execute o comando: <code>./gradlew bootrun</code></li>
 </ol>
 
+<h2>Collection para interação no Postman</h2>
 <a href="https://drive.google.com/file/d/1wxwioDHS1sKFPq4G7b24tVZb-XMnoj-l/view?usp=share_link"> 🚀 Collection Sacola API - Postman</a><br>
 
 <h3>Contribuindo</h3>
